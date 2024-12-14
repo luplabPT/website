@@ -1,4 +1,8 @@
 public
 node_modules
 resources
+<<<<<<< HEAD
 .hugo_build.lock
+=======
+.hugo_build.lock
+>>>>>>> 27378b676ad04077f2df391a15f68bccc73cdcb5
