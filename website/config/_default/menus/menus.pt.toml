@@ -1,0 +1,53 @@
+[[main]]
+name = "Início"
+url = ""
+weight = 10
+
+[[main]]
+name = "Sobre"
+url = "about"
+weight = 20
+
+[[main]]
+identifier = "Blog"
+name = "Blog"
+weight = 40
+
+[[main]]
+name = "All"
+url = "post"
+weight = 100
+parent = "Blog"
+
+[[main]]
+identifier = "Docs"
+name = "Docs"
+url = "page"
+weight = 50
+
+[[main]]
+identifier = "Contacts"
+name = "Contactos"
+url = "contacts"
+weight = 50
+[[social]]
+  name = "Linkedin"
+  pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-linkedin'><use href='/hugo-bootstrap-theme/images/feather/feather-sprite.svg#linkedin'/></svg>"
+  url = ""
+  weight = 10
+  title = "LinkedIn"
+
+[[social]]
+  name = "Instagram"
+  pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-twitter'><use href='/hugo-bootstrap-theme/images/feather/feather-sprite.svg#twitter'/></svg>"
+  url = ""
+  weight = 20
+  title = "Instagram"
+
+[[social]]
+  name = "Github"
+  pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-github'><use href='/hugo-bootstrap-theme/images/feather/feather-sprite.svg#github'/></svg>"
+  url = "https://github.com/luplabPT"
+  weight = 30
+  title = "Github"
+
