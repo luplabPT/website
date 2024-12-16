@@ -7,3 +7,4 @@ To run this website locally paste this in the terminal at the base of the reposi
 ````sh
 hugo server -D --disableFastRender --source website
 ``````
+http://localhost:1313/hugo-bootstrap-theme/
