@@ -17,4 +17,4 @@ aliases:
 
 We are a small group of people who have started working on this idea of being cool kids with an NGO trying to do some structural good
 
-
+We want to make cities beautiful :)
